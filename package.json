@@ -1,0 +1,17 @@
+{
+  "name": "jkanime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jkanime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "phantomjs": "^2.1.3",
+    "prompt": "^0.2.14",
+    "request": "^2.69.0"
+  }
+}
